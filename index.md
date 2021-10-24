@@ -23,7 +23,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[面试基础](https://github.com/LaPioggia/notebook/base/面试基础.md) and ![Image](src)
+[面试基础](https://github.com/LaPioggia/notebook/blob/gh-pages/base/%E9%9D%A2%E8%AF%95%E5%9F%BA%E7%A1%80.md) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
