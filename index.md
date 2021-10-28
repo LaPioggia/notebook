@@ -1,37 +1,7 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/LaPioggia/notebook/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[面试基础](https://github.com/LaPioggia/notebook/blob/gh-pages/base/%E9%9D%A2%E8%AF%95%E5%9F%BA%E7%A1%80.md) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://github.com/LaPioggia/notebook/blob/gh-pages/base/%E9%9D%A2%E8%AF%95%E5%9F%BA%E7%A1%80.md).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/LaPioggia/notebook/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[知识点](https://github.com/LaPioggia/notebook/blob/gh-pages/base/%E9%9D%A2%E8%AF%95%E5%9F%BA%E7%A1%80.md).
+## 一、java基础
+[数据类型](https://github.com/LaPioggia/notebook/blob/gh-pages/base/dataType.md)
+[面向对象](https://github.com/LaPioggia/notebook/blob/gh-pages/base/object.md)
+[集合](https://github.com/LaPioggia/notebook/blob/gh-pages/base/集合.md)
+## 二、设计模式
+## 三、数据结构
