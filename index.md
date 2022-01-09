@@ -3,6 +3,7 @@
 [数据类型](https://github.com/LaPioggia/notebook/blob/gh-pages/java/数据类型.md)<br/>
 [面向对象](https://github.com/LaPioggia/notebook/blob/gh-pages/java/面向对象.md)<br/>
 [集合](https://github.com/LaPioggia/notebook/blob/gh-pages/java/集合.md)<br/>
+[多线程](https://github.com/LaPioggia/notebook/blob/gh-pages/java/多线程.md)<br/>
 [JDBC](https://github.com/LaPioggia/notebook/blob/gh-pages/java/JDBC.md)<br/>
 [Maven](https://github.com/LaPioggia/notebook/blob/gh-pages/java/maven.md)<br/>
 [单元测试](https://github.com/LaPioggia/notebook/blob/gh-pages/java/单元测试.md)<br/>
