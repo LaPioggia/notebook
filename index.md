@@ -1,6 +1,6 @@
 [知识点](https://github.com/LaPioggia/notebook/blob/gh-pages/base/%E9%9D%A2%E8%AF%95%E5%9F%BA%E7%A1%80.md).
 ## 一、java基础
-[数据类型](https://github.com/LaPioggia/notebook/blob/gh-pages/java/数据类型.md)<br/>
+[java概念](https://github.com/LaPioggia/notebook/blob/gh-pages/java/java概念.md)<br/>
 [面向对象](https://github.com/LaPioggia/notebook/blob/gh-pages/java/面向对象.md)<br/>
 [集合](https://github.com/LaPioggia/notebook/blob/gh-pages/java/集合.md)<br/>
 [多线程](https://github.com/LaPioggia/notebook/blob/gh-pages/java/多线程.md)<br/>
