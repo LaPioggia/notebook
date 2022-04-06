@@ -2,13 +2,19 @@
 ## 一、java基础
 [java概念](https://github.com/LaPioggia/notebook/blob/gh-pages/java/java概念.md)<br/>
 [面向对象](https://github.com/LaPioggia/notebook/blob/gh-pages/java/面向对象.md)<br/>
-[集合](https://github.com/LaPioggia/notebook/blob/gh-pages/java/集合.md)<br/>
+[异常](https://github.com/LaPioggia/notebook/blob/gh-pages/java/异常.md)<br/>
 [多线程](https://github.com/LaPioggia/notebook/blob/gh-pages/java/多线程.md)<br/>
-[JDBC](https://github.com/LaPioggia/notebook/blob/gh-pages/java/JDBC.md)<br/>
-[Maven](https://github.com/LaPioggia/notebook/blob/gh-pages/java/maven.md)<br/>
+[泛型](https://github.com/LaPioggia/notebook/blob/gh-pages/java/泛型.md)<br/>
+[常用类](https://github.com/LaPioggia/notebook/blob/gh-pages/java/常用类.md)<br/>
+[IO](https://github.com/LaPioggia/notebook/blob/gh-pages/java/IO.md)<br/>
+[集合](https://github.com/LaPioggia/notebook/blob/gh-pages/java/集合.md)<br/>
+[反射](https://github.com/LaPioggia/notebook/blob/gh-pages/java/反射.md)<br/>
+[注解](https://github.com/LaPioggia/notebook/blob/gh-pages/java/注解.md)<br/>
 [单元测试](https://github.com/LaPioggia/notebook/blob/gh-pages/java/单元测试.md)<br/>
 ## 二、数据库
 ## 三、java web
+[JDBC](https://github.com/LaPioggia/notebook/blob/gh-pages/java/JDBC.md)<br/>
+[Maven](https://github.com/LaPioggia/notebook/blob/gh-pages/java/maven.md)<br/>
 ## 四、设计模式
 ## 五、框架
 [Mybatis](https://github.com/LaPioggia/notebook/blob/gh-pages/框架/Mybatis.md)<br/>
